@@ -1,2 +1,9 @@
 Prueba 1
 Commit 2
+
+Flujo de trabajo:
+
+git status
+git add <nombre-de-archivo>
+git commit <nombre-de-rama>
+git push origin main
